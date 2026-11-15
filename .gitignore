@@ -17,6 +17,9 @@
 # Debugger Files
 *.pdb
 
+#VScode
+.vscode/
+
 # Compiled Dynamic libraries
 *.so
 *.dylib

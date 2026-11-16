@@ -70,3 +70,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Downloaded market data (fetched at run time by scripts/fetch_data.sh)
+data/raw/
+
+# Generated dashboard data (written by build/mcb_report)
+site/data/
